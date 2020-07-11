@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Want to work on OpenSource
+- Want to explore RL and RNNs next
+
+- ⚡ Fun fact:
+  - I love tea xD
