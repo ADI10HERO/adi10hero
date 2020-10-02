@@ -119,7 +119,7 @@
 </details>
 
 <details>
-<summary>📈 My GitHub Stats </summary>
+<summary> <strong> GitHub Stats </strong> </summary>
 <p width=100% ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi10hero&layout=compact&theme=algolia&count_private=true&exclude_repo=linux" alt="adi10hero" /></p>
 
 
