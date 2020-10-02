@@ -3,9 +3,9 @@
 
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=adi10hero" alt="adi10hero" /> </p>
 
-🔭 I’m currently working on [AutoDL](http://github.com/auto-DL/)
+#### 🔭 I’m currently working on [AutoDL](http://github.com/auto-DL/)
 
-👯 I’m looking to collaborate on **Open source Projects**
+#### 👯 I’m looking to collaborate on **Open source Projects**
 
 
 <details>
@@ -119,14 +119,14 @@
 </details>
 
 <details>
-<summary>📈 My GitHub Stats</summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi10hero&layout=compact&theme=algolia&count_private=true&exclude_repo=linux" alt="adi10hero" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adi10hero&show_icons=true&theme=algolia&count_private=true" alt="adi10hero" /></p>
+<summary>📈 My GitHub Stats </summary>
+<p width=100% ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi10hero&layout=compact&theme=algolia&count_private=true&exclude_repo=linux" alt="adi10hero" /></p>
+
+<p width=100% style="display: block;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adi10hero&show_icons=true&theme=algolia&count_private=true" alt="adi10hero" /></p>
 </details>
 
-<br>
 
-👻 **Fun Fact**
-    
-  **```You can not open link in a new tab with github markdown using target=“_blank”. Nope! It's not an HTML "a" (Anchor) tag after all :P```**
+#### 👻 **Fun Fact:**
+ 
+   **```You can not open link in a new tab with github markdown using target=“_blank”. Nope! It's not an HTML "a" (Anchor) tag after all :P```**
   
