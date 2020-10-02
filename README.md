@@ -7,6 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/adi10hero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adi10hero" height="30" width="40" /></a>
