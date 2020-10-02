@@ -15,8 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Want to work on OpenSource
-- Want to explore RL and RNNs next
-
+- 🔭 Plans
+  - Maintain and Improve my Open Source Org [AutoDL](https://github.com/Auto-DL)
+  - Work on OpenSource Projects
+  - Explore RL and RNNs next
+  
+  
 - ⚡ Fun fact:
-  - I love tea xD
+  - I love tea more than coffee xD
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADI10HERO)](https://github.com/ADI10HERO)
+
+[![Stats](https://github-readme-stats.vercel.app/api/?username=adi10hero)](https://github.com/ADI10HERO)
+
+
