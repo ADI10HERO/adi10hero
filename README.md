@@ -122,7 +122,8 @@
 <summary>📈 My GitHub Stats </summary>
 <p width=100% ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi10hero&layout=compact&theme=algolia&count_private=true&exclude_repo=linux" alt="adi10hero" /></p>
 
-<p width=100% style="display: block;">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adi10hero&show_icons=true&theme=algolia&count_private=true" alt="adi10hero" /></p>
+
+<p width=100% style="display: block;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adi10hero&show_icons=true&theme=algolia&count_private=true" alt="adi10hero" /></p>
 </details>
 
 
